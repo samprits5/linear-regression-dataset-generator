@@ -51,7 +51,6 @@ def main():
          
              spamwriter.writerow(list)
          
-     csvfile.close()
      print("\nFile created - dataset_sam.csv")
      
 
